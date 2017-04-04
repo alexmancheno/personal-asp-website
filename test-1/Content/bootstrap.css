@@ -4524,6 +4524,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-inverse .navbar-nav > li > a {
   color: #999999;
+  padding-bottom: 23px;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
@@ -4937,7 +4938,7 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: azure;
 }
 
 .jumbotron h1 {
